@@ -1,0 +1,200 @@
+{"sentence":"The rumor planted a seed of doubt that grew all semester.","target_word":"seed","novelty_label":"conventional","offsets":[20,24]}
+{"sentence":"Their grant served as seed money for the new vaccine startup.","target_word":"seed","novelty_label":"conventional","offsets":[22,26]}
+{"sentence":"His apology was the seed of a reconciliation that eventually healed the family.","target_word":"seed","novelty_label":"conventional","offsets":[20,24]}
+{"sentence":"Education is the seed from which social mobility can grow.","target_word":"seed","novelty_label":"conventional","offsets":[17,21]}
+{"sentence":"The pilot study acted as a seed for larger, multicenter research projects.","target_word":"seed","novelty_label":"conventional","offsets":[27,31]}
+{"sentence":"Her whispered idea was a seed of static, crackling through the boardroom\u2019s polished calm.","target_word":"seed","novelty_label":"novel","offsets":[25,29]}
+{"sentence":"A single typo left a seed of entropy in the codebase, blooming into bugs months later.","target_word":"seed","novelty_label":"novel","offsets":[21,25]}
+{"sentence":"His playlist scattered seeds of nostalgia along the highway\u2019s endless gray ribbon.","target_word":"seed","novelty_label":"novel","offsets":[23,28]}
+{"sentence":"Each unread notification became a seed in the desert of his attention, waiting for a glance to make it sprout.","target_word":"seed","novelty_label":"novel","offsets":[34,38]}
+{"sentence":"The midnight train rumbled by, shaking loose seeds of dream\u2011dust that settled over the insomniac city.","target_word":"seed","novelty_label":"novel","offsets":[45,50]}
+{"sentence":"Throughout her memoir, resilience remained the common thread linking every chapter.","target_word":"thread","novelty_label":"conventional","offsets":[54,60]}
+{"sentence":"Please stay on topic or start a new thread in the forum.","target_word":"thread","novelty_label":"conventional","offsets":[36,42]}
+{"sentence":"Investigators followed a thread of evidence that led them to the abandoned warehouse.","target_word":"thread","novelty_label":"conventional","offsets":[25,31]}
+{"sentence":"His argument unraveled when the central thread of reasoning snapped under scrutiny.","target_word":"thread","novelty_label":"conventional","offsets":[40,46]}
+{"sentence":"A shared love of jazz provided the thread that stitched their unlikely friendship together.","target_word":"thread","novelty_label":"conventional","offsets":[35,41]}
+{"sentence":"Dusk laid a violet thread across the horizon, stitching day to night.","target_word":"thread","novelty_label":"novel","offsets":[19,25]}
+{"sentence":"The city\u2019s sirens wove threads of urgency through the quiet winter air.","target_word":"thread","novelty_label":"novel","offsets":[23,30]}
+{"sentence":"Each heartbeat sent a luminous thread into the darkness, sewing courage to her ribs.","target_word":"thread","novelty_label":"novel","offsets":[31,37]}
+{"sentence":"The algorithm spun invisible threads between strangers, tugging them into accidental symphonies.","target_word":"thread","novelty_label":"novel","offsets":[29,36]}
+{"sentence":"In the silent library, dust motes drifted on unseen threads of forgotten questions.","target_word":"thread","novelty_label":"novel","offsets":[52,59]}
+{"sentence":"Her bilingualism served as a bridge between the visiting scientists and local farmers.","target_word":"bridge","novelty_label":"conventional","offsets":[29,35]}
+{"sentence":"The company offered a short online course as a bridge from theory to practice.","target_word":"bridge","novelty_label":"conventional","offsets":[47,53]}
+{"sentence":"Meditation became his bridge from the chaos of work to the calm of home life.","target_word":"bridge","novelty_label":"conventional","offsets":[22,28]}
+{"sentence":"The moderator tried to build a bridge across the widening political divide.","target_word":"bridge","novelty_label":"conventional","offsets":[31,37]}
+{"sentence":"A small grant acted as a bridge loan until their main funding arrived.","target_word":"bridge","novelty_label":"conventional","offsets":[25,31]}
+{"sentence":"The first notes of the cello laid a silken bridge across the hush of the auditorium.","target_word":"bridge","novelty_label":"novel","offsets":[43,49]}
+{"sentence":"Dawn painted a coral bridge in the sky, tying night\u2019s last stars to morning birdsong.","target_word":"bridge","novelty_label":"novel","offsets":[21,27]}
+{"sentence":"Each unread message stacked into a fragile bridge of silence between the two friends.","target_word":"bridge","novelty_label":"novel","offsets":[43,49]}
+{"sentence":"Laughter arched like a glowing bridge over the picnic, lighting every face it touched.","target_word":"bridge","novelty_label":"novel","offsets":[31,37]}
+{"sentence":"Her memory of the scent of oranges became a secret bridge back to childhood summers.","target_word":"bridge","novelty_label":"novel","offsets":[51,57]}
+{"sentence":"The graduate\u2011student\u2019s offhand comment was the spark that ignited the whole research project.","target_word":"spark","novelty_label":"conventional","offsets":[47,52]}
+{"sentence":"Their playful banter carried the first spark of romance.","target_word":"spark","novelty_label":"conventional","offsets":[39,44]}
+{"sentence":"The teacher worked to kindle a spark of curiosity in every student.","target_word":"spark","novelty_label":"conventional","offsets":[31,36]}
+{"sentence":"Activists hoped the small protest would be the spark for nationwide reform.","target_word":"spark","novelty_label":"conventional","offsets":[47,52]}
+{"sentence":"Even in total exhaustion she guarded a stubborn spark of hope.","target_word":"spark","novelty_label":"conventional","offsets":[48,53]}
+{"sentence":"Moonlight scattered a silent spark on each rooftop, guiding the insomniac home.","target_word":"spark","novelty_label":"novel","offsets":[29,34]}
+{"sentence":"His forgotten hometown lingered like a buried spark beneath layers of grown\u2011up asphalt.","target_word":"spark","novelty_label":"novel","offsets":[46,51]}
+{"sentence":"The violin\u2019s highest note released a glassy spark that stitched silence to awe.","target_word":"spark","novelty_label":"novel","offsets":[44,49]}
+{"sentence":"A spark of midnight drifted in her coffee, brewing constellations of ideas.","target_word":"spark","novelty_label":"novel","offsets":[2,7]}
+{"sentence":"Data streamed across the monitors, and within the noise he glimpsed a rogue spark wandering the labyrinth of numbers.","target_word":"spark","novelty_label":"novel","offsets":[76,81]}
+{"sentence":"Her grandmother was the anchor that kept the family steady during the crisis.","target_word":"anchor","novelty_label":"conventional","offsets":[24,30]}
+{"sentence":"Local radio served as an anchor for the community after the storm.","target_word":"anchor","novelty_label":"conventional","offsets":[25,31]}
+{"sentence":"Daily meditation became his personal anchor amid the semester\u2019s chaos.","target_word":"anchor","novelty_label":"conventional","offsets":[37,43]}
+{"sentence":"The opening chord progression is the harmonic anchor of the entire symphony.","target_word":"anchor","novelty_label":"conventional","offsets":[46,52]}
+{"sentence":"Transparent governance acts as an anchor for public trust.","target_word":"anchor","novelty_label":"conventional","offsets":[34,40]}
+{"sentence":"In the carnival\u2019s swirling neon, her laughter dropped an anchor of calm into his restless mind.","target_word":"anchor","novelty_label":"novel","offsets":[57,63]}
+{"sentence":"Each unread message dragged like a digital anchor in his pocket, slowing his steps.","target_word":"anchor","novelty_label":"novel","offsets":[43,49]}
+{"sentence":"The first scent of rain cast an anchor into childhood, hauling bright memories to the surface.","target_word":"anchor","novelty_label":"novel","offsets":[32,38]}
+{"sentence":"A single comma worked as an invisible anchor, mooring the poem to a moment of silence.","target_word":"anchor","novelty_label":"novel","offsets":[38,44]}
+{"sentence":"The satellite deployed data\u2011anchors across the sky, tethering continents to the same midnight news.","target_word":"anchor","novelty_label":"novel","offsets":[28,35]}
+{"sentence":"The historian weaves personal letters and official records into a vivid account of the war.","target_word":"weave","novelty_label":"conventional","offsets":[14,20]}
+{"sentence":"He wove through rush\u2011hour traffic to reach the station before the last train.","target_word":"weave","novelty_label":"conventional","offsets":[3,7]}
+{"sentence":"Diplomats are weaving a fragile coalition from divergent regional interests.","target_word":"weave","novelty_label":"conventional","offsets":[14,21]}
+{"sentence":"Her keynote cleverly weaves humor into dense technical material.","target_word":"weave","novelty_label":"conventional","offsets":[21,27]}
+{"sentence":"Childhood memories weave together whenever that song plays on the radio.","target_word":"weave","novelty_label":"conventional","offsets":[19,24]}
+{"sentence":"Dawn wove filaments of rose\u2011gold light between the silent rooftops.","target_word":"weave","novelty_label":"novel","offsets":[5,9]}
+{"sentence":"An algorithm quietly weaves pulses of current into lattices of thought.","target_word":"weave","novelty_label":"novel","offsets":[21,27]}
+{"sentence":"Anxiety weaves barbed wire around his heartbeat each time the phone vibrates.","target_word":"weave","novelty_label":"novel","offsets":[8,14]}
+{"sentence":"The city\u2019s aroma wove itself into her coat, a traveling patchwork of cardamom and diesel.","target_word":"weave","novelty_label":"novel","offsets":[17,21]}
+{"sentence":"On the chat screen, emojis weave neon vines through their midnight conversation.","target_word":"weave","novelty_label":"novel","offsets":[27,32]}
+{"sentence":"The two startups forged a partnership to accelerate battery research.","target_word":"forge","novelty_label":"conventional","offsets":[17,23]}
+{"sentence":"Decades of hardship forged her determination into unbreakable steel.","target_word":"forge","novelty_label":"conventional","offsets":[20,26]}
+{"sentence":"Diplomats worked overnight to forge a tentative peace agreement.","target_word":"forge","novelty_label":"conventional","offsets":[30,35]}
+{"sentence":"Traveling alone helped him forge a clearer sense of identity.","target_word":"forge","novelty_label":"conventional","offsets":[27,32]}
+{"sentence":"Intensive rehearsals forged the disparate musicians into a tight ensemble.","target_word":"forge","novelty_label":"conventional","offsets":[21,27]}
+{"sentence":"Dawn forged the horizon into a blade of light that sliced through the mist.","target_word":"forge","novelty_label":"novel","offsets":[5,11]}
+{"sentence":"The poet forged raindrops into syllables, tempering them with silence.","target_word":"forge","novelty_label":"novel","offsets":[9,15]}
+{"sentence":"Their shared laughter forged invisible bridges over the canyon of years between them.","target_word":"forge","novelty_label":"novel","offsets":[22,28]}
+{"sentence":"An algorithm quietly forges stray data points into patterns no human had imagined.","target_word":"forge","novelty_label":"novel","offsets":[21,27]}
+{"sentence":"Nightmares forge barbed shadows that cling to the edges of her waking thoughts.","target_word":"forge","novelty_label":"novel","offsets":[11,16]}
+{"sentence":"New graduates must navigate a fiercely competitive job market.","target_word":"navigate","novelty_label":"conventional","offsets":[19,27]}
+{"sentence":"He carefully navigated the conversation to avoid offending anyone at the table.","target_word":"navigate","novelty_label":"conventional","offsets":[13,22]}
+{"sentence":"The startup is navigating a thicket of regulatory hurdles before launching its app.","target_word":"navigate","novelty_label":"conventional","offsets":[15,25]}
+{"sentence":"Therapists help patients navigate grief after a major loss.","target_word":"navigate","novelty_label":"conventional","offsets":[25,33]}
+{"sentence":"Parents often have to navigate the delicate balance between guidance and independence.","target_word":"navigate","novelty_label":"conventional","offsets":[22,30]}
+{"sentence":"At sunrise we navigated the quiet between our words like sailors mapping an uncharted sea of possibility.","target_word":"navigate","novelty_label":"novel","offsets":[14,23]}
+{"sentence":"The violin melody navigated dusk, threading silver notes through the fading light until darkness had a direction.","target_word":"navigate","novelty_label":"novel","offsets":[18,27]}
+{"sentence":"She navigates the labyrinth of her memories, steering past reefs of regret toward islands of forgotten laughter.","target_word":"navigate","novelty_label":"novel","offsets":[4,13]}
+{"sentence":"A curious beam of attention navigated the lecture hall, landing on every raised hand before circling back to the podium.","target_word":"navigate","novelty_label":"novel","offsets":[28,37]}
+{"sentence":"Invisible algorithms now navigate rivers of raw feeling in social feeds, charting courses no human map yet records.","target_word":"navigate","novelty_label":"novel","offsets":[25,33]}
+{"sentence":"Laughter rippled through the crowded auditorium.","target_word":"ripple","novelty_label":"conventional","offsets":[9,16]}
+{"sentence":"The policy change rippled across global financial markets overnight.","target_word":"ripple","novelty_label":"conventional","offsets":[18,25]}
+{"sentence":"Shock rippled over his face when the verdict was read.","target_word":"ripple","novelty_label":"conventional","offsets":[6,13]}
+{"sentence":"A murmur of dissent rippled around the committee table.","target_word":"ripple","novelty_label":"conventional","offsets":[20,27]}
+{"sentence":"Unease rippled through the festival crowd when the lights suddenly died.","target_word":"ripple","novelty_label":"conventional","offsets":[7,14]}
+{"sentence":"Moonlight rippled the glass towers into silent rivers of silver.","target_word":"ripple","novelty_label":"novel","offsets":[10,17]}
+{"sentence":"Dissonant chords rippled the hush, cracking time like thin ice.","target_word":"ripple","novelty_label":"novel","offsets":[17,24]}
+{"sentence":"Her quiet resolve rippled the stale air of the meeting, loosening possibilities.","target_word":"ripple","novelty_label":"novel","offsets":[18,25]}
+{"sentence":"Memory rippled the evening, folding present seconds into shimmering echoes of childhood.","target_word":"ripple","novelty_label":"novel","offsets":[7,14]}
+{"sentence":"Raw data rippled the dark screen, constellating futures no one could yet name.","target_word":"ripple","novelty_label":"novel","offsets":[9,16]}
+{"sentence":"We watched the tense negotiations unfold on live television.","target_word":"unfold","novelty_label":"conventional","offsets":[34,40]}
+{"sentence":"Her career unfolded in unexpected directions after the fellowship.","target_word":"unfold","novelty_label":"conventional","offsets":[11,19]}
+{"sentence":"As the novel unfolds, the narrator\u2019s reliability comes into question.","target_word":"unfold","novelty_label":"conventional","offsets":[13,20]}
+{"sentence":"A clear strategy began to unfold once the data were organized.","target_word":"unfold","novelty_label":"conventional","offsets":[26,32]}
+{"sentence":"The full impact of the policy will unfold over the next decade.","target_word":"unfold","novelty_label":"conventional","offsets":[35,41]}
+{"sentence":"Dawn unfolded the horizon like parchment, revealing letters of gold light.","target_word":"unfold","novelty_label":"novel","offsets":[5,13]}
+{"sentence":"Silence unfolded between them, wide enough to sail a memory through.","target_word":"unfold","novelty_label":"novel","offsets":[8,16]}
+{"sentence":"The algorithm unfolds tangled hours of video into a single thread of meaning.","target_word":"unfold","novelty_label":"novel","offsets":[14,21]}
+{"sentence":"Laughter unfolded the ceiling of the cramped room, letting in a sky of ease.","target_word":"unfold","novelty_label":"novel","offsets":[9,17]}
+{"sentence":"Each scent of rain unfolded a hidden alleyway in his recollection of childhood streets.","target_word":"unfold","novelty_label":"novel","offsets":[19,27]}
+{"sentence":"That conversation planted the seed of doubt in his mind.","target_word":"seed","novelty_label":"conventional","offsets":[30,34]}
+{"sentence":"The teacher sowed the seeds of curiosity in her students.","target_word":"seed","novelty_label":"conventional","offsets":[22,27]}
+{"sentence":"Greed is often the seed of corruption.","target_word":"seed","novelty_label":"conventional","offsets":[19,23]}
+{"sentence":"The seeds of change were already in motion.","target_word":"seed","novelty_label":"conventional","offsets":[4,9]}
+{"sentence":"Their kindness was the seed of a lasting friendship.","target_word":"seed","novelty_label":"conventional","offsets":[23,27]}
+{"sentence":"Each glance he gave her was a seed dropped into her silence.","target_word":"seed","novelty_label":"novel","offsets":[30,34]}
+{"sentence":"The abandoned book held seeds of forgotten worlds between its pages.","target_word":"seed","novelty_label":"novel","offsets":[24,29]}
+{"sentence":"Her laughter scattered seeds across the still air of the funeral hall.","target_word":"seed","novelty_label":"novel","offsets":[23,28]}
+{"sentence":"The dim streetlight was a seed of gold in the ocean of night.","target_word":"seed","novelty_label":"novel","offsets":[26,30]}
+{"sentence":"His failure was not an end but a seed wrapped in ash, waiting to bloom.","target_word":"seed","novelty_label":"novel","offsets":[33,37]}
+{"sentence":"There\u2019s a common thread running through all his novels.","target_word":"thread","novelty_label":"conventional","offsets":[17,23]}
+{"sentence":"I lost my thread of thought when the phone rang.","target_word":"thread","novelty_label":"conventional","offsets":[10,16]}
+{"sentence":"The documentary followed the thread of her family\u2019s history.","target_word":"thread","novelty_label":"conventional","offsets":[29,35]}
+{"sentence":"Their conversation wove a thread of understanding.","target_word":"thread","novelty_label":"conventional","offsets":[26,32]}
+{"sentence":"A single thread of hope kept him going.","target_word":"thread","novelty_label":"conventional","offsets":[9,15]}
+{"sentence":"His voice was a trembling thread that held the moment together.","target_word":"thread","novelty_label":"novel","offsets":[26,32]}
+{"sentence":"The scent of her perfume was a thread weaving through his memory.","target_word":"thread","novelty_label":"novel","offsets":[31,37]}
+{"sentence":"The moon cast a thread of silence across the battlefield.","target_word":"thread","novelty_label":"novel","offsets":[16,22]}
+{"sentence":"She followed a thread of color in the grayness of her grief.","target_word":"thread","novelty_label":"novel","offsets":[15,21]}
+{"sentence":"Each footstep on the old stairs was a thread tying her to the past.","target_word":"thread","novelty_label":"novel","offsets":[38,44]}
+{"sentence":"His kindness acted as a bridge between their opposing views.","target_word":"bridge","novelty_label":"conventional","offsets":[24,30]}
+{"sentence":"Good communication is the bridge to a healthy relationship.","target_word":"bridge","novelty_label":"conventional","offsets":[26,32]}
+{"sentence":"That project served as a bridge to her dream career.","target_word":"bridge","novelty_label":"conventional","offsets":[25,31]}
+{"sentence":"Education can be a bridge out of poverty.","target_word":"bridge","novelty_label":"conventional","offsets":[19,25]}
+{"sentence":"Music became a bridge connecting generations.","target_word":"bridge","novelty_label":"conventional","offsets":[15,21]}
+{"sentence":"Her words laid a bridge of quiet fire between their silences.","target_word":"bridge","novelty_label":"novel","offsets":[17,23]}
+{"sentence":"Each note of the song was a bridge suspended in longing.","target_word":"bridge","novelty_label":"novel","offsets":[28,34]}
+{"sentence":"The mirror became a bridge into forgotten parts of herself.","target_word":"bridge","novelty_label":"novel","offsets":[20,26]}
+{"sentence":"His touch was a bridge that stitched the night to morning.","target_word":"bridge","novelty_label":"novel","offsets":[16,22]}
+{"sentence":"A single breath was the bridge she needed to leap into bravery.","target_word":"bridge","novelty_label":"novel","offsets":[24,30]}
+{"sentence":"Their first meeting lit a spark between them.","target_word":"spark","novelty_label":"conventional","offsets":[26,31]}
+{"sentence":"Her words were the spark that ignited a movement.","target_word":"spark","novelty_label":"conventional","offsets":[19,24]}
+{"sentence":"The film lacked the spark needed to hold the audience\u2019s interest.","target_word":"spark","novelty_label":"conventional","offsets":[20,25]}
+{"sentence":"That single act of kindness was the spark of their friendship.","target_word":"spark","novelty_label":"conventional","offsets":[36,41]}
+{"sentence":"His idea provided the spark that launched the entire project.","target_word":"spark","novelty_label":"conventional","offsets":[22,27]}
+{"sentence":"Her silence carried a spark that singed the edges of the room.","target_word":"spark","novelty_label":"novel","offsets":[22,27]}
+{"sentence":"The memory dropped like a spark into the stillness of his mind.","target_word":"spark","novelty_label":"novel","offsets":[26,31]}
+{"sentence":"Each falling snowflake was a quiet spark against the black coat of night.","target_word":"spark","novelty_label":"novel","offsets":[35,40]}
+{"sentence":"The echo in the cave held a spark of forgotten voices.","target_word":"spark","novelty_label":"novel","offsets":[28,33]}
+{"sentence":"Between the raindrops, he caught a spark of something unnameable and true.","target_word":"spark","novelty_label":"novel","offsets":[35,40]}
+{"sentence":"Her family was her emotional anchor during the crisis.","target_word":"anchor","novelty_label":"conventional","offsets":[29,35]}
+{"sentence":"Faith can be an anchor in turbulent times.","target_word":"anchor","novelty_label":"conventional","offsets":[16,22]}
+{"sentence":"He served as the team\u2019s anchor, holding everyone together.","target_word":"anchor","novelty_label":"conventional","offsets":[24,30]}
+{"sentence":"Education is the anchor of a strong society.","target_word":"anchor","novelty_label":"conventional","offsets":[17,23]}
+{"sentence":"She clung to tradition like an anchor in the storm of change.","target_word":"anchor","novelty_label":"conventional","offsets":[31,37]}
+{"sentence":"His voice was an anchor pulling her back from the edge of panic.","target_word":"anchor","novelty_label":"novel","offsets":[17,23]}
+{"sentence":"The smell of coffee became an anchor to mornings that no longer came.","target_word":"anchor","novelty_label":"novel","offsets":[30,36]}
+{"sentence":"A single tear rolled down, an anchor dropped in still waters.","target_word":"anchor","novelty_label":"novel","offsets":[30,36]}
+{"sentence":"Her handwriting was an anchor in the sea of unfamiliar words.","target_word":"anchor","novelty_label":"novel","offsets":[23,29]}
+{"sentence":"The cold metal railing was an anchor to the present as her thoughts drifted away.","target_word":"anchor","novelty_label":"novel","offsets":[30,36]}
+{"sentence":"The author managed to weave humor into the serious plot.","target_word":"weave","novelty_label":"conventional","offsets":[22,27]}
+{"sentence":"She tried to weave his advice into her presentation.","target_word":"weave","novelty_label":"conventional","offsets":[13,18]}
+{"sentence":"The director weaves together multiple storylines beautifully.","target_word":"weave","novelty_label":"conventional","offsets":[13,19]}
+{"sentence":"He weaves lies so smoothly that people hardly notice.","target_word":"weave","novelty_label":"conventional","offsets":[3,9]}
+{"sentence":"Their conversation weaved a picture of shared memories.","target_word":"weave","novelty_label":"conventional","offsets":[19,25]}
+{"sentence":"She weaved between silences like a dancer avoiding shadows.","target_word":"weave","novelty_label":"novel","offsets":[4,10]}
+{"sentence":"He tried to weave peace out of the smoke in the air.","target_word":"weave","novelty_label":"novel","offsets":[12,17]}
+{"sentence":"Her thoughts wove through the twilight like threads of forgotten songs.","target_word":"weave","novelty_label":"novel","offsets":[13,17]}
+{"sentence":"The stars seemed to weave secrets into the fabric of the sky.","target_word":"weave","novelty_label":"novel","offsets":[20,25]}
+{"sentence":"Each sigh she let out wove a curtain around her loneliness.","target_word":"weave","novelty_label":"novel","offsets":[22,26]}
+{"sentence":"They worked hard to forge a lasting friendship.","target_word":"forge","novelty_label":"conventional","offsets":[20,25]}
+{"sentence":"The treaty helped forge peace between the two nations.","target_word":"forge","novelty_label":"conventional","offsets":[18,23]}
+{"sentence":"She managed to forge a successful career in tech.","target_word":"forge","novelty_label":"conventional","offsets":[15,20]}
+{"sentence":"He hopes to forge a path where others only saw obstacles.","target_word":"forge","novelty_label":"conventional","offsets":[12,17]}
+{"sentence":"The team came together to forge a new vision for the company.","target_word":"forge","novelty_label":"conventional","offsets":[26,31]}
+{"sentence":"He tried to forge silence into something solid he could lean on.","target_word":"forge","novelty_label":"novel","offsets":[12,17]}
+{"sentence":"Her grief forged a crown of shadow that she wore with pride.","target_word":"forge","novelty_label":"novel","offsets":[10,16]}
+{"sentence":"The child\u2019s laughter forged cracks in the morning\u2019s gray stillness.","target_word":"forge","novelty_label":"novel","offsets":[21,27]}
+{"sentence":"Dreams forged from stardust flickered behind her tired eyes.","target_word":"forge","novelty_label":"novel","offsets":[7,13]}
+{"sentence":"His rage forged a door no one dared to open.","target_word":"forge","novelty_label":"novel","offsets":[9,15]}
+{"sentence":"She\u2019s learning to navigate the challenges of motherhood.","target_word":"navigate","novelty_label":"conventional","offsets":[18,26]}
+{"sentence":"He had to navigate office politics to get the promotion.","target_word":"navigate","novelty_label":"conventional","offsets":[10,18]}
+{"sentence":"The software helps users navigate complex legal documents.","target_word":"navigate","novelty_label":"conventional","offsets":[25,33]}
+{"sentence":"It took her years to navigate the world of academia.","target_word":"navigate","novelty_label":"conventional","offsets":[21,29]}
+{"sentence":"They navigated their relationship through ups and downs.","target_word":"navigate","novelty_label":"conventional","offsets":[5,14]}
+{"sentence":"He tried to navigate the silence like a sailor without stars.","target_word":"navigate","novelty_label":"novel","offsets":[12,20]}
+{"sentence":"She navigated each memory as though it were a minefield of light.","target_word":"navigate","novelty_label":"novel","offsets":[4,13]}
+{"sentence":"The child navigated his dreams with the precision of a poet.","target_word":"navigate","novelty_label":"novel","offsets":[10,19]}
+{"sentence":"He navigated grief as if it were an invisible labyrinth carved in smoke.","target_word":"navigate","novelty_label":"novel","offsets":[3,12]}
+{"sentence":"They navigated the evening with words that felt like whispers on water.","target_word":"navigate","novelty_label":"novel","offsets":[5,14]}
+{"sentence":"The news rippled through the crowd in seconds.","target_word":"ripple","novelty_label":"conventional","offsets":[9,16]}
+{"sentence":"A sense of fear rippled through the community after the incident.","target_word":"ripple","novelty_label":"conventional","offsets":[16,23]}
+{"sentence":"Laughter rippled across the room during the performance.","target_word":"ripple","novelty_label":"conventional","offsets":[9,16]}
+{"sentence":"His decision rippled through the entire organization.","target_word":"ripple","novelty_label":"conventional","offsets":[13,20]}
+{"sentence":"Shock rippled through her as she read the letter.","target_word":"ripple","novelty_label":"conventional","offsets":[6,13]}
+{"sentence":"Regret rippled through his voice like broken glass under velvet.","target_word":"ripple","novelty_label":"novel","offsets":[7,14]}
+{"sentence":"The music rippled through the walls like liquid light.","target_word":"ripple","novelty_label":"novel","offsets":[10,17]}
+{"sentence":"Her gaze rippled across the crowd, stirring something ancient and wordless.","target_word":"ripple","novelty_label":"novel","offsets":[9,16]}
+{"sentence":"The moment rippled through time, bending memories in its wake.","target_word":"ripple","novelty_label":"novel","offsets":[11,18]}
+{"sentence":"Silence rippled between them, soft and sharp as falling feathers.","target_word":"ripple","novelty_label":"novel","offsets":[8,15]}
+{"sentence":"We watched the story unfold in real time on the news.","target_word":"unfold","novelty_label":"conventional","offsets":[21,27]}
+{"sentence":"Her plans began to unfold just as she had hoped.","target_word":"unfold","novelty_label":"conventional","offsets":[19,25]}
+{"sentence":"The drama unfolded over several weeks of investigation.","target_word":"unfold","novelty_label":"conventional","offsets":[10,18]}
+{"sentence":"A new opportunity may unfold if you stay open to change.","target_word":"unfold","novelty_label":"conventional","offsets":[22,28]}
+{"sentence":"Events will unfold naturally\u2014just give it time.","target_word":"unfold","novelty_label":"conventional","offsets":[12,18]}
+{"sentence":"A quiet sadness unfolded in his chest like an old song remembered.","target_word":"unfold","novelty_label":"novel","offsets":[16,24]}
+{"sentence":"Night unfolded around the village like a velvet cloak stitched with stars.","target_word":"unfold","novelty_label":"novel","offsets":[6,14]}
+{"sentence":"Her silence unfolded between them like a letter never sent.","target_word":"unfold","novelty_label":"novel","offsets":[12,20]}
+{"sentence":"The memory unfolded in her mind like petals touched by moonlight.","target_word":"unfold","novelty_label":"novel","offsets":[11,19]}
+{"sentence":"Each breath unfolded a deeper layer of the fear she tried to hide.","target_word":"unfold","novelty_label":"novel","offsets":[12,20]}
